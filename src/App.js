@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-// 7e4zpYxQlQdTiZNyRs0VLBBF
+
 function App() {
   return (
     <div className="App">
